@@ -28,13 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Code2Str));
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.tsConvert = new System.Windows.Forms.ToolStripLabel();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.tsClear = new System.Windows.Forms.ToolStripLabel();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.rtbSrc = new System.Windows.Forms.RichTextBox();
             this.rtbDst = new System.Windows.Forms.RichTextBox();
-            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
@@ -61,6 +62,11 @@
             this.tsConvert.Size = new System.Drawing.Size(49, 22);
             this.tsConvert.Text = "Convert";
             this.tsConvert.Click += new System.EventHandler(this.tsConvert_Click);
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 25);
             // 
             // tsClear
             // 
@@ -110,11 +116,6 @@
             this.rtbDst.TabIndex = 0;
             this.rtbDst.Text = "";
             // 
-            // toolStripSeparator1
-            // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 25);
-            // 
             // Code2Str
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -122,6 +123,7 @@
             this.ClientSize = new System.Drawing.Size(807, 482);
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.toolStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Code2Str";
             this.Text = "Code2Str";
             this.toolStrip1.ResumeLayout(false);

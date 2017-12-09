@@ -7,3 +7,12 @@ E:\syn\Projects\My Projects\Code2Str\Code2Str\obj\Debug\Code2Str.csproj.Generate
 E:\syn\Projects\My Projects\Code2Str\Code2Str\obj\Debug\Code2Str.exe
 E:\syn\Projects\My Projects\Code2Str\Code2Str\obj\Debug\Code2Str.pdb
 E:\syn\Projects\My Projects\Code2Str\Code2Str\obj\Debug\Code2Str.Code2Str.resources
+E:\syn\Projects\My Projects\Code2Str\Code2Str\Code2Str\bin\Debug\Code2Str.exe.config
+E:\syn\Projects\My Projects\Code2Str\Code2Str\Code2Str\bin\Debug\Code2Str.exe
+E:\syn\Projects\My Projects\Code2Str\Code2Str\Code2Str\bin\Debug\Code2Str.pdb
+E:\syn\Projects\My Projects\Code2Str\Code2Str\Code2Str\obj\Debug\Code2Str.csprojResolveAssemblyReference.cache
+E:\syn\Projects\My Projects\Code2Str\Code2Str\Code2Str\obj\Debug\Code2Str.Code2Str.resources
+E:\syn\Projects\My Projects\Code2Str\Code2Str\Code2Str\obj\Debug\Code2Str.Properties.Resources.resources
+E:\syn\Projects\My Projects\Code2Str\Code2Str\Code2Str\obj\Debug\Code2Str.csproj.GenerateResource.Cache
+E:\syn\Projects\My Projects\Code2Str\Code2Str\Code2Str\obj\Debug\Code2Str.exe
+E:\syn\Projects\My Projects\Code2Str\Code2Str\Code2Str\obj\Debug\Code2Str.pdb

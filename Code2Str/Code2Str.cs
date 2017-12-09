@@ -21,7 +21,7 @@ namespace Code2Str
         private void tsConvert_Click(object sender, EventArgs e)
         {
             int maxLength = GetMaxLength() + 4;
-            string prefix = "wSql.Append(\" ";
+            string prefix = "wSql.AppendLine(\" ";
             string suffix = "\")";
             rtbDst.Clear();
 
